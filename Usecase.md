@@ -1,4 +1,4 @@
-#Use Cases
+#Informal Use Cases
 
 ###Use Case 1 : Login Menu
       Description : The users must login to define the role to be students or teachers.
