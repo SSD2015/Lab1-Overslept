@@ -9,4 +9,4 @@
 ###Documents
 <dd> [Vision](Vision.md) </dd> 
 <dd> [Use Cases](Usecase.md) </dd> 
-<dd> [Mock Up](Mockup.md) </dd>
+![Mockup](mockup.jpg)
